@@ -1,0 +1,17 @@
+[33mcommit 76c1d44e4121a845b99f8b1e40b2886cafd1153d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+Author: Shanil Batohi <sbatohi@gmail.com>
+Date:   Fri Sep 20 15:45:16 2024 +0200
+
+    added new feature
+
+[33mcommit 6ff6e542c62f05996a7a593c2c6635cd0547fae8[m[33m ([m[1;32mmain[m[33m)[m
+Author: Shanil Batohi <sbatohi@gmail.com>
+Date:   Thu Sep 19 22:45:38 2024 +0200
+
+    changed text.txt and added second-commit.txt
+
+[33mcommit 859c9f7cf658a2ce1d37d504658ac1242238df97[m
+Author: Shanil Batohi <shanil@batohidesign.co.za>
+Date:   Thu Sep 19 22:08:50 2024 +0200
+
+    Added test.txt file
